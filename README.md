@@ -1,7 +1,7 @@
 ## Hello and welcome to my Power BI visualization project! 
 
 **The goal of  this project is to create a COVID-19 dashboard.** <br>
-This is a personal project to practice some Power BI querying and visualization skills. 
+This is a quick personal project to practice some Power BI querying and visualization skills. 
 
 You can have a quick overview of the Power BI dashboard by checking this pdf file:
 - <a href=https://github.com/Ashish-3/covid_viz_with_PBI/blob/main/Covid%20v1.0.pdf>  Pdf dashboard</a>
